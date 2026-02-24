@@ -1,0 +1,105 @@
+# SeekerCraft — Privacy Policy
+
+**Last updated: February 2026**
+**Developer:** DuckerForge | [@DuckerForge on X](https://x.com/DuckerForge)
+
+---
+
+## Introduction
+
+SeekerCraft ("we", "our", or "the App") is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding that data.
+
+By using SeekerCraft, you agree to the collection and use of information as described in this policy.
+
+---
+
+## What We Collect
+
+### Data You Provide
+| Data | Purpose |
+|------|---------|
+| Solana wallet address (public key only) | Unique identifier for your account, leaderboard, and achievements |
+| Display name (optional, user-set) | Shown on leaderboards and in-game activity |
+| Game levels you create and publish | Stored on Firebase to be playable by the community |
+
+### Data Collected Automatically
+| Data | Purpose |
+|------|---------|
+| Game scores and completion statistics | Leaderboard rankings and achievement tracking |
+| Play counts and session duration | Improving game balance and features |
+| Device fingerprint (hashed, anonymous) | Anti-abuse protection for publish feature |
+
+### What We Do NOT Collect
+- Private keys or seed phrases — **never**
+- Email address, phone number, or real name
+- Location data
+- Advertising identifiers
+
+---
+
+## How We Use Your Data
+
+- **Leaderboards:** Your wallet address (truncated) and display name appear on the in-app leaderboard.
+- **Achievements:** Your progress is tracked locally and synced to Firebase under your wallet address.
+- **Community Content:** Levels you publish are stored on Firebase and visible to all players.
+- **Anti-Abuse:** Device fingerprints are used solely to prevent spam publishing and are not linked to personal identity.
+- **We never sell your data** to third parties.
+
+---
+
+## Data Storage
+
+All server-side data is stored on **Google Firebase Realtime Database** (servers located in the United States). Firebase's privacy practices are described at [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
+
+Blockchain transactions (publish fees, donations, achievements) are **public by design** and visible on Solana blockchain explorers.
+
+---
+
+## Blockchain Transactions
+
+SeekerCraft integrates with the Solana blockchain for:
+- Publishing game levels (one-time fee)
+- Unlocking achievements (one-time fee)
+- Sending SKR token tips to game creators
+
+All transactions are signed **inside your wallet app** (e.g., Seeker, Phantom, Solflare). We never have access to your private keys. Transactions are irreversible and publicly visible on-chain.
+
+---
+
+## Data Retention
+
+- Your leaderboard and achievement data is retained as long as your account is active.
+- Published game levels remain on Firebase until you unpublish them via the app.
+- To permanently delete all your data from our servers, contact us (see below).
+
+---
+
+## Your Rights
+
+You may:
+- **Disconnect** your wallet at any time via Settings → disconnect your wallet session locally.
+- **Delete your data** by contacting us — we will remove your user record from Firebase within 30 days.
+- **Unpublish** your game levels at any time via My Games → Unpublish.
+
+---
+
+## Children's Privacy
+
+SeekerCraft is not directed at children under 13. We do not knowingly collect data from children under 13. If you believe a child has provided us with personal data, contact us and we will delete it.
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. The "Last updated" date at the top of this page will reflect any changes. Continued use of the App after changes are posted constitutes acceptance of the new policy.
+
+---
+
+## Contact
+
+For privacy questions, data deletion requests, or concerns:
+
+- **X (Twitter):** [@DuckerForge](https://x.com/DuckerForge)
+- **In-app:** Settings → Privacy tab
+
+We aim to respond within 5 business days.
